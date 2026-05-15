@@ -11,14 +11,14 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Bukkit
 
 ### [🚰 Spigot](https://www.spigotmc.org/wiki/buildtools/)
-- **Version:** 1.4.6-1.21.1 (only 1.8+ official)
+- **Version:** 1.4.6-26.1.2 (only 1.8+ official)
 - **Author:** md_5/SpigotMC
 - **Fork:** CraftBukkit --> Spigot
 - **Description:** Bukkit with performance patches, more features and Bungeecord support.
 - **Plugins:** Bukkit, Spigot
 
 ### [📃 Paper](https://papermc.io/)
-- **Version:** 1.7.10-1.21 (Unsupported), 1.21.1
+- **Version:** 1.7.10-26.1.2 (Unsupported), 1.21.1
 - **Author:** PaperMC
 - **Fork:** CraftBukkit --> Spigot --> Paper
 - **Description:** Spigot with performance patches and more features.
@@ -60,14 +60,14 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🐡 Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
-- **Version:** 1.18.1-1.21.1
+- **Version:** 1.18.1-26.1.2
 - **Author:** pufferfish-gg
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Airplane --> Pufferfish
 - **Description:** A highly optimized Paper fork designed for large servers.
 - **Plugins:** Bukkit, Spigot, Paper
 
 ### [🟣 Purpur](https://github.com/pl3xgaming/Purpur)
-- **Version:** 1.14.1-1.21.1
+- **Version:** 1.14.1-26.1.2
 - **Author:** pl3xgaming
 - **Fork:** CraftBukkit --> Spigot --> Paper --> Pufferfish --> Purpur
 - **Description:** Fork of Tuinity/Pufferfish with the goal of providing new and interesting configuration options.
@@ -102,7 +102,7 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Sponge
 
 ### [🎲 Cuberite](https://cuberite.org/)
-- **Version:** 1.8 - 1.12.2
+- **Version:** 1.8 - 26.1.2
 - **Author:** cuberite
 - **Fork:** -
 - **Description:** A lightweight, fast and extensible game server for Minecraft written in C++.
@@ -187,7 +187,7 @@ This list contains Minecraft Java plugins server software.
 - **Plugins:** Rainbow
 
 ### [🔆 Glowstone](https://glowstone.net/)
-- **Version:** 1.12.2, 1.16.5 (Unsupported), 1.19 (Experimental)
+- **Version:** 1.12.2-26.1.2
 - **Author:** GlowstoneMC
 - **Fork:** -
 - **Description:** Completely open source Minecraft server that doesn't rely on any of Mojang's code and supports Bukkit/Spigot/Paper plugins.
