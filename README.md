@@ -18,13 +18,10 @@
         </ul>
 </details>
 
-## ⭐ You like this list and want to help us? Consider giving a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=LeStegii/server-software&type=Date)](https://star-history.com/#UeberallGebannt/server-software&Date)
-
 ## ❤ Credits
 - [Razva](https://gist.github.com/Razva/e7304fb80a210639107a35838dee2832) for the inspiration to start this project
 - [JustDoom](https://github.com/JustDoom) and [Anything-Minecraft](https://github.com/Anything-Minecraft-Team/anything-minecraft/) for providing a great amount of information
 - [TonimatasDEV](https://github.com/TonimatasDEV) and all the other [contributors](https://github.com/LeStegii/server-software/graphs/contributors) for adding software and fixing issues
 - [lunofe](https://github.com/lunofe) for creating the GitHub pages edition of this project.
+- [LeStegii](https://github.com/LeStegii). for creating this repo.
 - All the awesome developers who are making the software we play on!
