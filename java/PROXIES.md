@@ -7,13 +7,13 @@ About it: Proxies manage different single minecraft servers and manage player co
 
 # ✔️ Active Development
 ### [🌐 Bungeecord](https://github.com/SpigotMC/BungeeCord)
-- **Version:** 1.8-1.21.1
+- **Version:** 1.8-26.1.2
 - **Author:** md_5/SpigotMC
 - **Fork:** -
 - **Description:** Proxy that manages spigot servers and connects players to it.
 
 ### [🌠 Velocity](https://www.velocitypowered.com/)
-- **Version:** 1.7.2-1.21.1
+- **Version:** 1.7.2-26.1.2
 - **Author:** VelocityPowered
 - **Fork:** -
 - **Description:** Proxy with unparalleled server support, scalability, and flexibility.
