@@ -1,5 +1,5 @@
-#This is a Continuation of the server softare list that was archived.
-##This repo will continue to expand its lists and info on Minecraft server software.
+# This is a Continuation of the server softare list that was archived.
+## This repo will continue to expand its lists and info on Minecraft server software.
 
 # 🖥 [Server Software](https://lestegii.github.io/server-software)
 - This repository contains lists of server software for minecraft.
