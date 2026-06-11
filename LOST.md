@@ -100,7 +100,7 @@ This list contains lost server software.
 - **Description:** Rubbercord is an old proxy that originally inspired Bungeecord for Rubberband. 
 
 ### ⬛ TableCloth
-- **Version:** ?
-- **Author:** ?
+- **Version:** 1.12.2
+- **Author:** CKATEPTb
 - **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC --> TableCloth
-- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches.
+- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches. [The link can be found here](https://gitlab.com/CKATEPTb/tablecloth-1.12.2).
