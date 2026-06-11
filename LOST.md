@@ -5,7 +5,7 @@ This list contains lost server software.
 
 ### ⬛ CraftBukkit++
 - **Version:** ?
-- **Author:** Afforess
+- **Author:** Afforess, md_5
 - **Fork:** CraftBukkit --> CraftBukkit++ --> CraftBukkit--
 - **Description:** CraftBukkit++ was the original performance fork. It was made to improve performance for the CraftBukkit server. The project became to bloated and was later rebranded to CraftBukkit-- and put under a new dev team.
 
