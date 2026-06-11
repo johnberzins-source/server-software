@@ -48,8 +48,8 @@ This list contains lost server software.
 ### ⬛ NessusMS
 - **Version:** 1.5.2
 - **Author:** ?
-- **Fork:** -
-- **Description:** NessusMS was a 1.5.2 server written in C.
+- **Fork:** - Vanilla --> Nessus Minecraft Server (NessusMS)
+- **Description:** NessusMS was a 1.5.2 server written in C and was part of the Nessus.lv community.
 
 ### ⬛ Nostalgia
 - **Version:** 1.14.4
