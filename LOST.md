@@ -65,9 +65,9 @@ This list contains lost server software.
 
 ### ⬛ QuartzPowered
 - **Version:** 1.8
-- **Author:** ?
+- **Author:** Emiel45
 - **Fork:** -
-- **Description:** ?
+- **Description:** A simple server written in java from what looks like th ground up. [The link can be found here](https://github.com/quartz-powered)
 
 ### ⬛ Quesadilla
 - **Version:** 1.12.2
