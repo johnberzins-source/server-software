@@ -41,9 +41,9 @@ This list contains lost server software.
 
 ### ⬛ Myne2
 - **Version:** ?
-- **Author:** ?
+- **Author:** Andrew Godwin
 - **Fork:** -
-- **Description:** Myne2 is a server written in python for Minecraft alpha.
+- **Description:** Myne2 is a server written in python for Minecraft alpha. The repo link can be found [here](https://github.com/andrewgodwin/myne2).
 
 ### ⬛ NessusMS
 - **Version:** 1.5.2
