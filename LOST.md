@@ -88,10 +88,10 @@ This list contains lost server software.
 - **Description:** RubberBukkit is a fork on craftbukkit made to work with the Rubberband proxy.
 
 ### ⬛ TridentSDK
-- **Version:** 1.8
-- **Author:** ?
+- **Version:** 1.8-1.16
+- **Author:** TridentSDK Organization
 - **Fork:** -
-- **Description:** ?
+- **Description:** An ambitious project to recreate the Minecraft server from the ground up. It is legacy and no longer updated. The TridentSDK was specifically the API to make plugins for the server while the server itself was just called Trident. The repo link can be found [here](https://github.com/TridentSDK/TridentSDK).
 
 ### ⬛ Rubbercord
 - **Version:** ?
