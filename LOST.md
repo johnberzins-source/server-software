@@ -31,7 +31,7 @@ This list contains lost server software.
 - **Version:** 1.13.2
 - **Author:** ?
 - **Fork:** CraftBukkit --> Spigot --> Paper --> FeatherSpigot
-- **Description:** FeatherSpigot is a fork of Paper meant to bring newer patches back to 1.13.2.
+- **Description:** FeatherSpigot is a fork of Paper meant to bring newer patches back to 1.13.2. The repo link can be found [here](https://github.com/Lambsus/FeatherSpigot).
 
 ### ⬛ Fish
 - **Version:** 1.16.5
