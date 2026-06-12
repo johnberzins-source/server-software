@@ -25,7 +25,7 @@ This list contains lost server software.
 - **Version:** 1.8.8
 - **Author:** ?
 - **Fork:** CraftBukkit --> Spigot --> DytanicSpigot
-- **Description:** Spigot fork said to be capable of stability hitting 40 TPS, although there's not much left of it to show if it was.
+- **Description:** Spigot fork said to be capable of stability hitting 40 TPS, although there's not much left of it to show if it was. The jar download link is [here](https://www.cloudnetservice.eu/repositories/de/dytanic/dytanicspigot-api/1.8.8X-R0.1-SNAPSHOT/).
 
 ### ⬛ FeatherSpigot
 - **Version:** 1.13.2
