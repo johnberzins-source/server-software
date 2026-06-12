@@ -67,7 +67,7 @@ This list contains lost server software.
 - **Version:** 1.8
 - **Author:** Emiel45
 - **Fork:** -
-- **Description:** A simple server written in java from what looks like th ground up. [The link can be found here](https://github.com/quartz-powered)
+- **Description:** A simple server written in java from what looks like the ground up. The repo link can be found [here](https://github.com/quartz-powered)
 
 ### ⬛ Quesadilla
 - **Version:** 1.12.2
@@ -103,4 +103,4 @@ This list contains lost server software.
 - **Version:** 1.12.2
 - **Author:** CKATEPTb
 - **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC --> TableCloth
-- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches. [The link can be found here](https://gitlab.com/CKATEPTb/tablecloth-1.12.2).
+- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches. The repo link can be found [here](https://gitlab.com/CKATEPTb/tablecloth-1.12.2).
