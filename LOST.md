@@ -103,4 +103,4 @@ This list contains lost server software.
 - **Version:** 1.12.2
 - **Author:** CKATEPTb
 - **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC --> TableCloth
-- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches. The repo link can be found [here](https://gitlab.com/CKATEPTb/tablecloth-1.12.2).
+- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches. The repo link can be found [here](https://gitlab.com/CKATEPTb/tablecloth-1.12.2) however the server jar is frequently flagged as malware so download at your own risk. 
