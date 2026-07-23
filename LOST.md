@@ -102,5 +102,11 @@ This list contains lost server software.
 ### ⬛ TableCloth
 - **Version:** 1.12.2
 - **Author:** CKATEPTb
-- **Fork:** Forge/Spigot/Craftbukkit -->  AtomMC --> TableCloth
-- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches. The repo link can be found [here](https://gitlab.com/CKATEPTb/tablecloth-1.12.2) however the server jar is frequently flagged as malware so download at your own risk. 
+- **Fork:** Forge/Spigot/Craftbukkit/SpongePowered -->  AtomMC --> TableCloth
+- **Description:** A Hybrid jar forked from AtomMC combining Forge + Spigot and a couple of Paper Patches. The repo link can be found [here](https://gitlab.com/CKATEPTb/tablecloth-1.12.2) however the server jar is frequently flagged as malware so download at your own risk.
+
+### ⬛ Selery
+- **Version:** 1.2-1.10-1.12
+- **Author:** [Kripth](https://github.com/Kripth)
+- **Fork:** -
+- **Description:** Selery was a custom server software for Bedrock 1.2 and Java edition 1.10-1.12. It was written in the D programming language and was compiled to binaries so it would run natively. Selery support plugins and other advanced functionalities. The repo link is [here.](https://github.com/sel-project/selery)
